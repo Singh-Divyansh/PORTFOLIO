@@ -1,0 +1,72 @@
+[
+  {
+    "name": "PPE-Violation-Detection",
+    "desc": "A deep learning model to detect PPE violations in workplaces using computer vision.",
+    "image": "ppe",
+    "category": "ai_project",
+    "links": {
+      "view": "https://github.com/Singh-Divyansh/ai_projects/tree/main/PPE-Violation-Detection",
+      "code": "https://github.com/Singh-Divyansh/ai_projects/tree/main/PPE-Violation-Detection"
+    }
+  },
+  {
+    "name": "Multi_Person_Face_Recognition",
+    "desc": "A face recognition system capable of identifying multiple persons in a single frame.",
+    "image": "mp",
+    "category": "ai_project",
+    "links": {
+      "view": "https://github.com/Singh-Divyansh/ai_projects/tree/main/Multi_Person_Face_Recognition",
+      "code": "https://github.com/Singh-Divyansh/ai_projects/tree/main/Multi_Person_Face_Recognition"
+    }
+  },
+  {
+    "name": "tindog-project",
+    "desc": "A simple landing page for a fictional dating app for dogs, built using HTML and CSS.",
+    "image": "tindog",
+    "category": "basicweb",
+    "links": {
+      "view": "https://singh-divyansh.github.io/tindog-project/",
+      "code": "https://github.com/Singh-Divyansh/tindog-project"
+    }
+  },
+  {
+    "name": "Dice-Game",
+    "desc": "A fun dice game where two players roll dice, and the player with the higher roll wins. Built using HTML, CSS, and JavaScript.",
+    "image": "dice",
+    "category": "basicweb",
+    "links": {
+      "view": "https://singh-divyansh.github.io/Dice-Game/",
+      "code": "https://github.com/Singh-Divyansh/Dice-Game"
+    }
+  },
+  {
+    "name": "Drum-Kit-project",
+    "desc": "An interactive drum kit that plays different drum sounds when keys are pressed or buttons are clicked. Developed using HTML, CSS, and JavaScript.",
+    "image": "drum",
+    "category": "basicweb",
+    "links": {
+      "view": "https://singh-divyansh.github.io/Drum-Kit-project/",
+      "code": "https://github.com/Singh-Divyansh/Drum-Kit-project"
+    }
+  },
+  {
+    "name": "simon-game",
+    "desc": "A web-based version of the classic Simon game, where players must repeat increasingly long sequences of colors. Built with HTML, CSS, and JavaScript.",
+    "image": "simon",
+    "category": "basicweb",
+    "links": {
+      "view": "https://singh-divyansh.github.io/simon-game/",
+      "code": "https://github.com/Singh-Divyansh/simon-game"
+    }
+  },
+  {
+    "name": "weather-prediction-app",
+    "desc": "A web application that provides weather forecasts for different locations. Utilizes APIs to fetch real-time weather data.",
+    "image": "weather",
+    "category": "webapp",
+    "links": {
+      "view": "https://singh-divyansh.github.io/weather-prediction-app/",
+      "code": "https://github.com/Singh-Divyansh/weather-prediction-app"
+    }
+  }
+]
